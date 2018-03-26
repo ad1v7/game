@@ -1,7 +1,7 @@
 include README.rst
 
 # Include the data files
-recursive-include game2/images *
-recursive-include game2/images/items *
-recursive-include game2/images/soldier_icon *
-recursive-include game2/images/weapons *
+recursive-include game/images *
+recursive-include game/images/items *
+recursive-include game/images/soldier_icon *
+recursive-include game/images/weapons *
