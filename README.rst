@@ -1,6 +1,7 @@
 To install:
 
 cd to directory containing setup.py file
+
 pip3 install --user .
 
 Please note that program requires PyQt5 which can only be installed by pip3 when python version is 3.5+
