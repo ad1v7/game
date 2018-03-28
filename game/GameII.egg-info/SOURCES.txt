@@ -1,7 +1,0 @@
-README.rst
-GameII.egg-info/PKG-INFO
-GameII.egg-info/SOURCES.txt
-GameII.egg-info/dependency_links.txt
-GameII.egg-info/entry_points.txt
-GameII.egg-info/requires.txt
-GameII.egg-info/top_level.txt
